@@ -49,7 +49,3 @@ func main() {
 	Print(pointers)
 	PrintValues(pointers)
 }
-
-// this just a dummy change
-
-// this just a second dummy change
